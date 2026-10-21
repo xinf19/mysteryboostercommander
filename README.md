@@ -4,11 +4,9 @@ An independent fan site covering game changes, Rulebreaker, rules, card lists, r
 
 Homepage: [mysteryboostercommander.com](https://mysteryboostercommander.com/)
 
-The domain link is the intended deployment address; hosting setup is separate from this repository upload.
-
 ## Preview locally
 
-Open `index.html` in a browser. All seven HTML pages are in the repository root.
+All seven HTML files are in the repository root. The deployed site uses extensionless URLs and root-relative internal links. Preview navigation through a server that supports these routes.
 
 Tailwind CSS loads from a CDN. Base styles are also included in each page. The card browser requires JavaScript and access to the Scryfall API.
 
@@ -22,6 +20,8 @@ Tailwind CSS loads from a CDN. Base styles are also included in each page. The c
 - `what-is.html` — Set introduction
 - `commanders.html` — Disclosed commanders
 
-Content marked with TODO comments remains pending verification.
-
 Independent, unaffiliated fan site. Magic: The Gathering and related names are owned by Wizards of the Coast.
+
+## Crawling
+
+`robots.txt` allows crawling and links to `sitemap.xml`, which lists the seven canonical extensionless URLs.
