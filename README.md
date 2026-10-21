@@ -25,3 +25,5 @@ Independent, unaffiliated fan site. Magic: The Gathering and related names are o
 ## Crawling
 
 `robots.txt` allows crawling and links to `sitemap.xml`, which lists the seven main guides and eight commander profiles using canonical extensionless URLs. The commander overview also provides stable anchors for all eight profiles.
+
+`_redirects` contains explicit 301 redirects from the fifteen HTML filenames to their canonical extensionless routes. Individual profiles link to the other seven commanders and include verified Scryfall examples.
