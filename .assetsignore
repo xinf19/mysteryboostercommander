@@ -1,0 +1,5 @@
+/.git/
+/.wrangler/
+/node_modules/
+/release-date-worker.js
+/wrangler.jsonc

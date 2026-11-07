@@ -11,8 +11,11 @@ const shanghaiDate = new Intl.DateTimeFormat("sv-SE", {
   day: "2-digit",
 });
 
-export async function onRequestGet(context) {
-  const response = await context.next();
+async function fetchReleaseDate(request, env) {
+  const assetRequest = new Request(request);
+  assetRequest.headers.delete("If-None-Match");
+  assetRequest.headers.delete("If-Modified-Since");
+  const response = await env.ASSETS.fetch(assetRequest);
   if (response.status !== 200 || !response.headers.get("content-type")?.includes("text/html")) {
     return response;
   }
@@ -32,3 +35,12 @@ export async function onRequestGet(context) {
     .on("#countdown-fallback", { element: (element) => element.setInnerContent(message) })
     .transform(html);
 }
+
+export default {
+  fetch(request, env) {
+    if (request.method === "GET" && new URL(request.url).pathname === "/release-date") {
+      return fetchReleaseDate(request, env);
+    }
+    return env.ASSETS.fetch(request);
+  },
+};
