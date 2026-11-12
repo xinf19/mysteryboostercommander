@@ -92,7 +92,7 @@
 /creepy-crawler.html /creepy-crawler 301
 /halving-season.html /halving-season 301
 /lifening-elemental.html /lifening-elemental 301
-/tl;dr.html /tl;dr 301
+/tl-dr.html /tl-dr 301
 /toofer-keeper-of-the-full-grip.html /toofer-keeper-of-the-full-grip 301
 /bolshack-dragon.html /bolshack-dragon 301
 /boltfire.html /boltfire 301
@@ -106,3 +106,6 @@
 /pinchy-mcstingbutt.html /pinchy-mcstingbutt 301
 /wrenn-and-one.html /wrenn-and-one 301
 /zone-of-flame.html /zone-of-flame 301
+/tl;dr /tl-dr 301
+/tl%3Bdr /tl-dr 301
+/tl;dr.html /tl-dr 301
