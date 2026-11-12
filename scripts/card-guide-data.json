@@ -1,0 +1,949 @@
+{
+  "a-girl-and-her-dogs": {
+    "name": "A Girl and Her Dogs",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{4}{W}",
+    "collector_number": "515",
+    "type_line": "Creature — Human"
+  },
+  "arzakon": {
+    "name": "Arzakon",
+    "colors": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{W}{U}{B}{R}{G}",
+    "collector_number": "33",
+    "type_line": "Legendary Planeswalker — Arzakon"
+  },
+  "ashayas-enduring-bond": {
+    "name": "Ashaya's Enduring Bond",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{1}{R}{G}",
+    "collector_number": "34",
+    "type_line": "Legendary Sorcery"
+  },
+  "autumn-willow-harmony": {
+    "name": "Autumn Willow, Harmony",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}{G}",
+    "collector_number": "27",
+    "type_line": "Legendary Creature — Avatar"
+  },
+  "balefang-the-unslayable": {
+    "name": "Balefang the Unslayable",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{3}{R}{R}",
+    "collector_number": "20",
+    "type_line": "Legendary Creature — Demon Dragon"
+  },
+  "blor-the-impervious": {
+    "name": "Blor the Impervious",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{3}{G}{G}",
+    "collector_number": "28",
+    "type_line": "Legendary Creature — Frog Warrior"
+  },
+  "blurry-visionary": {
+    "name": "Blurry Visionary",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U}",
+    "collector_number": "526",
+    "type_line": "Creature — Human Wizard"
+  },
+  "bolshack-dragon": {
+    "name": "Bolshack Dragon",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{5}{R}",
+    "collector_number": "558",
+    "type_line": "Creature — Armored Dragon"
+  },
+  "boltfire": {
+    "name": "Boltfire",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{R}",
+    "collector_number": "559",
+    "type_line": "Sorcery"
+  },
+  "boss-uramon-shadows-reach": {
+    "name": "Boss Uramon, Shadow's Reach",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "collector_number": "13",
+    "type_line": "Legendary Creature — Human Rogue"
+  },
+  "boulder-jockey": {
+    "name": "Boulder Jockey",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}{D}",
+    "collector_number": "560",
+    "type_line": "Creature — Goblin"
+  },
+  "brigid-whos-seen-some-stuff": {
+    "name": "Brigid, Who's Seen Some Stuff",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}{W}",
+    "collector_number": "510",
+    "type_line": "Legendary Creature — Kithkin Archer"
+  },
+  "call-from-the-grave": {
+    "name": "Call from the Grave",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "collector_number": "541",
+    "type_line": "Sorcery"
+  },
+  "champion-of-the-hareish": {
+    "name": "Champion of the Hareish",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{W}",
+    "collector_number": "511",
+    "type_line": "Creature — Rabbit Soldier"
+  },
+  "chief-magistrate-of-mercadia": {
+    "name": "Chief Magistrate of Mercadia",
+    "colors": [
+      "R",
+      "W"
+    ],
+    "mana_cost": "{4}{R}{W}",
+    "collector_number": "35",
+    "type_line": "Legendary Creature — Human Noble"
+  },
+  "chira-all-in": {
+    "name": "Chira, All In",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{3}{R}",
+    "collector_number": "21",
+    "type_line": "Legendary Creature — Human Rogue"
+  },
+  "common-black-removal": {
+    "name": "Common Black Removal",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}{B}",
+    "collector_number": "543",
+    "type_line": "Instant"
+  },
+  "creepy-crawler": {
+    "name": "Creepy Crawler",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "collector_number": "544",
+    "type_line": "Creature — Spider"
+  },
+  "davvol-evincar-of-rath": {
+    "name": "Davvol, Evincar of Rath",
+    "colors": [
+      "B",
+      "G"
+    ],
+    "mana_cost": "{2}{B}{G}",
+    "collector_number": "36",
+    "type_line": "Legendary Creature — Phyrexian Noble"
+  },
+  "dragons-smile": {
+    "name": "Dragon's Smile",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{5}{R}{R}",
+    "collector_number": "22",
+    "type_line": "Legendary Artifact — Vehicle"
+  },
+  "dyfed-the-guiding-hand": {
+    "name": "Dyfed, the Guiding Hand",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U}{U}",
+    "collector_number": "7",
+    "type_line": "Legendary Planeswalker — Dyfed"
+  },
+  "ekthi-contaminator-priest": {
+    "name": "Ekthi, Contaminator Priest",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "collector_number": "1",
+    "type_line": "Legendary Creature — Phyrexian Cleric"
+  },
+  "elda-conjurer-of-spectacle": {
+    "name": "Elda, Conjurer of Spectacle",
+    "colors": [
+      "G",
+      "W"
+    ],
+    "mana_cost": "{2}{G}{W}",
+    "collector_number": "37",
+    "type_line": "Legendary Creature — Human Wizard"
+  },
+  "essence-of-ajani": {
+    "name": "Essence of Ajani",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "collector_number": "513",
+    "type_line": "Emblem"
+  },
+  "feroz-ulgrothas-warden": {
+    "name": "Feroz, Ulgrotha's Warden",
+    "colors": [
+      "G",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{3}{G}{W}{U}",
+    "collector_number": "38",
+    "type_line": "Legendary Planeswalker — Feroz"
+  },
+  "flitwing-lyev-detective": {
+    "name": "Flitwing, Lyev Detective",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "collector_number": "8",
+    "type_line": "Legendary Creature — Faerie Detective"
+  },
+  "friarball": {
+    "name": "Friarball",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "collector_number": "514",
+    "type_line": "Sorcery"
+  },
+  "glade-of-the-pump-spells": {
+    "name": "Glade of the Pump Spells",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "collector_number": "576",
+    "type_line": "Land"
+  },
+  "glava-five-advents-mage": {
+    "name": "Glava, Five-Advents Mage",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{5}{G}{G}",
+    "collector_number": "29",
+    "type_line": "Legendary Creature — Human Wizard"
+  },
+  "gobland": {
+    "name": "Gobland",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "",
+    "collector_number": "563",
+    "type_line": "Land Creature — Mountain Goblin"
+  },
+  "grakk-the-pacifist": {
+    "name": "Grakk the Pacifist",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "collector_number": "2",
+    "type_line": "Legendary Creature — Orc"
+  },
+  "grandmother-goby": {
+    "name": "Grandmother Goby",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}{U}",
+    "collector_number": "9",
+    "type_line": "Legendary Creature — Merfolk Wizard"
+  },
+  "greensleeves": {
+    "name": "Greensleeves",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{4}{G}{G}",
+    "collector_number": "30",
+    "type_line": "Legendary Planeswalker — Greensleeves"
+  },
+  "grizzlegom-hurloon-hero": {
+    "name": "Grizzlegom, Hurloon Hero",
+    "colors": [
+      "G",
+      "R"
+    ],
+    "mana_cost": "{5}{R}{G}",
+    "collector_number": "39",
+    "type_line": "Legendary Creature — Minotaur Warrior"
+  },
+  "gustha-ebbasdotter": {
+    "name": "Gustha Ebbasdotter",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{3}{U}{U}",
+    "collector_number": "10",
+    "type_line": "Legendary Creature — Human Wizard"
+  },
+  "halving-season": {
+    "name": "Halving Season",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{4}{B}",
+    "collector_number": "545",
+    "type_line": "Enchantment"
+  },
+  "homer-the-hermit": {
+    "name": "Homer, the Hermit",
+    "colors": [
+      "B",
+      "G",
+      "U"
+    ],
+    "mana_cost": "{B}{G}{U}",
+    "collector_number": "40",
+    "type_line": "Legendary Creature — Crab Druid"
+  },
+  "intangible-vibes": {
+    "name": "Intangible Vibes",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "collector_number": "516",
+    "type_line": "Enchantment"
+  },
+  "istvan-butcher-of-eln": {
+    "name": "Istvan, Butcher of Eln",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}{B}{B}",
+    "collector_number": "14",
+    "type_line": "Legendary Creature — Human"
+  },
+  "itazura-lingering-wick": {
+    "name": "Itazura, Lingering Wick",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "mana_cost": "{2}{U}{R}",
+    "collector_number": "41",
+    "type_line": "Legendary Creature — Spirit"
+  },
+  "jabs-mistress-of-mockery": {
+    "name": "Jabs, Mistress of Mockery",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "collector_number": "23",
+    "type_line": "Legendary Creature — Human Rogue"
+  },
+  "jandor-fortuned-traveler": {
+    "name": "Jandor, Fortuned Traveler",
+    "colors": [
+      "G",
+      "R",
+      "W"
+    ],
+    "mana_cost": "{1}{R}{G}{W}",
+    "collector_number": "42",
+    "type_line": "Legendary Creature — Human Citizen"
+  },
+  "joven-and-chandler": {
+    "name": "Joven and Chandler",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}{R}{R}",
+    "collector_number": "24",
+    "type_line": "Legendary Creature — Human Rogue"
+  },
+  "knight-of-lost-causes": {
+    "name": "Knight of Lost Causes",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{W}{W}",
+    "collector_number": "518",
+    "type_line": "Creature — Human Knight"
+  },
+  "kozilek-compleated": {
+    "name": "Kozilek, Compleated",
+    "colors": [],
+    "mana_cost": "{8}{C/P}{C/P}",
+    "collector_number": "502",
+    "type_line": "Legendary Creature — Phyrexian Eldrazi"
+  },
+  "kuroki-thief-of-talents": {
+    "name": "Kuroki, Thief of Talents",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{4}{B}",
+    "collector_number": "15",
+    "type_line": "Legendary Creature — Spirit"
+  },
+  "lifening-elemental": {
+    "name": "Lifening Elemental",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{5}{B}",
+    "collector_number": "547",
+    "type_line": "Creature — Vampire Elemental"
+  },
+  "lutri-pauper-otter": {
+    "name": "Lutri, Pauper Otter",
+    "colors": [
+      "R",
+      "U"
+    ],
+    "mana_cost": "{3}{U/R}{U/R}",
+    "collector_number": "597",
+    "type_line": "Legendary Creature — Elemental Otter"
+  },
+  "lyna-veil-of-vengeance": {
+    "name": "Lyna, Veil of Vengeance",
+    "colors": [
+      "B",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{W}{U}{B}",
+    "collector_number": "43",
+    "type_line": "Legendary Creature — Soltari Cleric"
+  },
+  "magus-of-the-chains": {
+    "name": "Magus of the Chains",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "collector_number": "549",
+    "type_line": "Creature — Human Wizard"
+  },
+  "massimo-the-magician": {
+    "name": "Massimo, the Magician",
+    "colors": [
+      "R",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{U}{R}{W}",
+    "collector_number": "45",
+    "type_line": "Legendary Creature — Cat Wizard"
+  },
+  "matoc-lavamancer": {
+    "name": "Matoc, Lavamancer",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{3}{R}",
+    "collector_number": "25",
+    "type_line": "Legendary Creature — Human Barbarian Wizard"
+  },
+  "maular-the-next-evolution": {
+    "name": "Maular, the Next Evolution",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{5}{G}{G}",
+    "collector_number": "31",
+    "type_line": "Legendary Creature — Dinosaur Mutant"
+  },
+  "meatsqueak-hoard-lord": {
+    "name": "Meatsqueak, Hoard Lord",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "collector_number": "32",
+    "type_line": "Legendary Creature — Squirrel"
+  },
+  "miss-highwater": {
+    "name": "Miss Highwater",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}{B}",
+    "collector_number": "16",
+    "type_line": "Legendary Creature — Demon Advisor"
+  },
+  "mox-poison": {
+    "name": "Mox Poison",
+    "colors": [],
+    "mana_cost": "{0}",
+    "collector_number": "608",
+    "type_line": "Artifact"
+  },
+  "naturalize-2": {
+    "name": "Naturalize 2",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "collector_number": "579",
+    "type_line": "Instant"
+  },
+  "nephilim-epochal": {
+    "name": "Nephilim Epochal",
+    "colors": [
+      "B",
+      "G",
+      "R",
+      "U",
+      "W"
+    ],
+    "mana_cost": "{U/R}{R/G}{G/W}{W/B}",
+    "collector_number": "47",
+    "type_line": "Legendary Creature — Elder Nephilim"
+  },
+  "nivea-beloved-battlemage": {
+    "name": "Nivea, Beloved Battlemage",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "collector_number": "3",
+    "type_line": "Legendary Creature — Human Wizard Warrior"
+  },
+  "no-regrets-egret": {
+    "name": "No-Regrets Egret",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "collector_number": "533",
+    "type_line": "Creature — Bird Scout"
+  },
+  "noble-ox": {
+    "name": "Noble Ox",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "collector_number": "521",
+    "type_line": "Creature — Noble Ox"
+  },
+  "olag-and-miau-new-friends": {
+    "name": "Olag and Miau, New Friends",
+    "colors": [
+      "B",
+      "G",
+      "W"
+    ],
+    "mana_cost": "{W}{B}{G}",
+    "collector_number": "48",
+    "type_line": "Legendary Creature — Zombie Cat"
+  },
+  "olinda-the-oblivious": {
+    "name": "Olinda the Oblivious",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "collector_number": "17",
+    "type_line": "Legendary Creature — Skunk Rogue"
+  },
+  "panglacial-shinobi": {
+    "name": "Panglacial Shinobi",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}",
+    "collector_number": "534",
+    "type_line": "Creature — Wurm Ninja"
+  },
+  "penumbra-umbra": {
+    "name": "Penumbra Umbra",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{1}{G}",
+    "collector_number": "580",
+    "type_line": "Enchantment — Aura"
+  },
+  "phyrexian-seedling": {
+    "name": "Phyrexian Seedling",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{2}{G}",
+    "collector_number": "581",
+    "type_line": "Creature — Phyrexian Plant"
+  },
+  "pinchy-mcstingbutt": {
+    "name": "Pinchy McStingbutt",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{2}{B}",
+    "collector_number": "552",
+    "type_line": "Creature — Scorpion"
+  },
+  "plain-walker": {
+    "name": "Plain Walker",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{2}{W}",
+    "collector_number": "522",
+    "type_line": "Creature — Kithkin Rogue"
+  },
+  "rikala-homarid-king": {
+    "name": "Rikala, Homarid King",
+    "colors": [
+      "G",
+      "U"
+    ],
+    "mana_cost": "{1}{G}{U}",
+    "collector_number": "49",
+    "type_line": "Legendary Creature — Lobster Noble"
+  },
+  "sahir-visitor-in-darkness": {
+    "name": "Sahir, Visitor in Darkness",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}{B}",
+    "collector_number": "18",
+    "type_line": "Legendary Creature — Human Wizard"
+  },
+  "sash-and-waistcoat-unmen": {
+    "name": "Sash and Waistcoat, Unmen",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "collector_number": "11",
+    "type_line": "Legendary Creature — Insect Rogue"
+  },
+  "search-elemental": {
+    "name": "Search Elemental",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{U}",
+    "collector_number": "535",
+    "type_line": "Creature — Elemental"
+  },
+  "selenia-the-cursed-heart": {
+    "name": "Selenia, the Cursed Heart",
+    "colors": [
+      "B",
+      "W"
+    ],
+    "mana_cost": "{4}{W}{B}",
+    "collector_number": "50",
+    "type_line": "Legendary Creature — Angel Warrior"
+  },
+  "seluma-light-of-aysen": {
+    "name": "Seluma, Light of Aysen",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{4}{W}",
+    "collector_number": "4",
+    "type_line": "Legendary Creature — Angel Warrior"
+  },
+  "sifa-grent": {
+    "name": "Sifa Grent",
+    "colors": [
+      "B",
+      "R"
+    ],
+    "mana_cost": "{3}{B}{R}",
+    "collector_number": "51",
+    "type_line": "Legendary Planeswalker — Sifa"
+  },
+  "sliver-of-hope": {
+    "name": "Sliver of Hope",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{3}{W}",
+    "collector_number": "523",
+    "type_line": "Creature — Sliver"
+  },
+  "subgoyf": {
+    "name": "Subgoyf",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{1}{U}",
+    "collector_number": "536",
+    "type_line": "Artifact Creature — Lhurgoyf"
+  },
+  "tax-taker": {
+    "name": "Tax Taker",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{W}",
+    "collector_number": "524",
+    "type_line": "Creature — Rat Advisor"
+  },
+  "the-colossal-dreadmaw": {
+    "name": "The Colossal Dreadmaw",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "{4}{G}{G}",
+    "collector_number": "573",
+    "type_line": "Legendary Creature — Dinosaur"
+  },
+  "the-everforger": {
+    "name": "The Everforger",
+    "colors": [],
+    "mana_cost": "{6}",
+    "collector_number": "59",
+    "type_line": "Legendary Artifact Creature — Construct"
+  },
+  "the-madcap-jester": {
+    "name": "The Madcap Jester",
+    "colors": [
+      "B",
+      "R",
+      "U"
+    ],
+    "mana_cost": "{1}{U}{B}{R}",
+    "collector_number": "44",
+    "type_line": "Legendary Creature — Clown Wizard"
+  },
+  "the-muckslinger-gang": {
+    "name": "The Muckslinger Gang",
+    "colors": [
+      "B",
+      "G",
+      "R"
+    ],
+    "mana_cost": "{1}{B}{R}{G}",
+    "collector_number": "46",
+    "type_line": "Legendary Creature — Goblin Lizard Beast"
+  },
+  "the-unluckiest-planeswalker": {
+    "name": "The Unluckiest Planeswalker",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{2}{R}",
+    "collector_number": "26",
+    "type_line": "Legendary Planeswalker"
+  },
+  "the-weaver-king": {
+    "name": "The Weaver King",
+    "colors": [
+      "B",
+      "U"
+    ],
+    "mana_cost": "{4}{U}{B}",
+    "collector_number": "56",
+    "type_line": "Legendary Creature — Horror Wizard"
+  },
+  "thomil-the-destroyer": {
+    "name": "Thomil, the Destroyer",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}{B}",
+    "collector_number": "19",
+    "type_line": "Legendary Planeswalker — Thomil"
+  },
+  "tl-dr": {
+    "name": "TL;DR",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{B}{B}",
+    "collector_number": "553",
+    "type_line": "Instant"
+  },
+  "tolabow-loch-rascal": {
+    "name": "Tolabow, Loch Rascal",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{2}{U}{U}",
+    "collector_number": "12",
+    "type_line": "Legendary Creature — Otter"
+  },
+  "toofer-keeper-of-the-full-grip": {
+    "name": "Toofer, Keeper of the Full Grip",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}",
+    "collector_number": "554",
+    "type_line": "Legendary Creature — Human Gamer"
+  },
+  "tresserhorns-lord-returned": {
+    "name": "Tresserhorn's Lord, Returned",
+    "colors": [
+      "B",
+      "R",
+      "U"
+    ],
+    "mana_cost": "{2}{U}{B}{R}",
+    "collector_number": "52",
+    "type_line": "Legendary Creature — Zombie Noble"
+  },
+  "uugguu-the-omniplasm": {
+    "name": "Uugguu, the Omniplasm",
+    "colors": [
+      "B",
+      "G",
+      "U"
+    ],
+    "mana_cost": "{B}{G}{U}",
+    "collector_number": "54",
+    "type_line": "Legendary Creature — Ooze"
+  },
+  "valko-indorian": {
+    "name": "Valko Indorian",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{3}{B}",
+    "collector_number": "60",
+    "type_line": "Legendary Creature — Human Wizard"
+  },
+  "venser-visionary-traveler": {
+    "name": "Venser, Visionary Traveler",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{3}{W}{U}",
+    "collector_number": "55",
+    "type_line": "Legendary Planeswalker — Venser"
+  },
+  "whtz-the-bibliophile": {
+    "name": "Whtz, the Bibliophile",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{1}{W}{U}",
+    "collector_number": "57",
+    "type_line": "Legendary Creature — Homunculus"
+  },
+  "wisedrafters-will": {
+    "name": "Wisedrafter's Will",
+    "colors": [
+      "U"
+    ],
+    "mana_cost": "{U}",
+    "collector_number": "539",
+    "type_line": "Enchantment"
+  },
+  "worzel-the-protector": {
+    "name": "Worzel, the Protector",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}{W}{W}",
+    "collector_number": "5",
+    "type_line": "Legendary Planeswalker — Worzel"
+  },
+  "wrath-of-leknif": {
+    "name": "Wrath of Leknif",
+    "colors": [
+      "U",
+      "W"
+    ],
+    "mana_cost": "{1}{W}{W}{U}",
+    "collector_number": "605",
+    "type_line": "Sorcery"
+  },
+  "wrenn-and-one": {
+    "name": "Wrenn and One",
+    "colors": [
+      "G"
+    ],
+    "mana_cost": "",
+    "collector_number": "588",
+    "type_line": "Land Planeswalker — Wrenn"
+  },
+  "you-compleat-me": {
+    "name": "You Compleat Me",
+    "colors": [
+      "B"
+    ],
+    "mana_cost": "{1}{B}{B}",
+    "collector_number": "556",
+    "type_line": "Sorcery"
+  },
+  "yume-chronicler-of-valor": {
+    "name": "Yume, Chronicler of Valor",
+    "colors": [
+      "W"
+    ],
+    "mana_cost": "{1}{W}",
+    "collector_number": "6",
+    "type_line": "Legendary Creature — Human Druid"
+  },
+  "zagorka-mother-of-sanctum": {
+    "name": "Zagorka, Mother of Sanctum",
+    "colors": [
+      "G",
+      "R",
+      "U"
+    ],
+    "mana_cost": "{1}{G}{U}{R}",
+    "collector_number": "58",
+    "type_line": "Legendary Creature — Human Peasant"
+  },
+  "zone-of-flame": {
+    "name": "Zone of Flame",
+    "colors": [
+      "R"
+    ],
+    "mana_cost": "{4}{R}{R}{R}",
+    "collector_number": "571",
+    "type_line": "Enchantment — Aura"
+  }
+}
